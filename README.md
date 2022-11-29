@@ -1,5 +1,7 @@
 # Prueba Inditex por Álvaro Peña Meléndez
 
+Descripción de la prueba -> TestJava2020.txt TL - Inditex Sisu 
+
 He creado una aplicación utilizando spring-boot v3.0.0
 La aplicación está desarrolada en java v17 y se ejecuta en un proceso java en segundo plano que incluye un servidor Tomcat v10.1.1 embebido
 La aplicación consume una BDD H2 cargada en memoria en el momento de lanzarse, existe un scritp data.sql que carga los datos cada vez que se inicializa. 
